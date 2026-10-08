@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: flutter_application_1
+=======
+name: tugas2
+>>>>>>> 586a30aa6218ae6982967210637674b2eae40b9e
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.

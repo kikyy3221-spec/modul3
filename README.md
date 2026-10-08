@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # flutter_application_1
+=======
+# tugas2
+>>>>>>> 586a30aa6218ae6982967210637674b2eae40b9e
 
 A new Flutter project.
 
